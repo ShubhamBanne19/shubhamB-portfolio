@@ -21,7 +21,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: linear-grat(135deg, #5497ac, #86d1e7);
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -116,7 +116,7 @@ section p {
 
 .skill-category ul li i {
     margin-right: 10px;
-    color: #feb47b;
+    color: #86d1e7;
 }
 
 .proficiency {
